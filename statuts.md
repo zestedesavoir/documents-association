@@ -21,7 +21,7 @@ comprennent notamment :
 
 - la diffusion gratuite de contenus pédagogiques
 sur tout support ;
-- l’édition de sites Web ;
+- l’édition de sites web ;
 - l’organisation de manifestations, en ligne ou
 réelles, aidant à la réalisation de l’objet de l’association ;
 - la vente permanente ou occasionnelle de produits
@@ -73,9 +73,9 @@ prochain mandat.
 Le conseil d’administration est élu par l’assemblée
 générale pour un mandat d’un an renouvelable.
 Toute personne adhérente à l’association depuis
-plus de six mois, majeure ou mineure de 16 ans,
-est éligible. Les modalités de l’élection sont fixées
-par le règlement intérieur.
+plus de six mois, majeure ou mineure âgée de 16 ans
+ou plus, est éligible. Les modalités de l’élection 
+sont fixées par le règlement intérieur.
 
 **Article 9.** Le conseil d’administration est investi
 d’une manière générale des pouvoirs les plus étendus
@@ -221,7 +221,7 @@ fixée. Cette convocation mentionne le lieu de réunion
 et l’ordre du jour.
 
 L’assemblée générale ordinaire délibère valablement
-quelque soit le nombre de présents. Les décisions
+quel que soit le nombre de présents. Les décisions
 sont prises à la majorité simple des présents,
 à main levée. Le vote est effectué à bulletin secret
 à la demande d’au moins un membre.
@@ -250,7 +250,7 @@ vote par correspondance l’est.
 
 **Article 19.** Les décisions prises par le conseil
 d’administration et les assemblées générales sont
-signées par le président et mises à disposition aux
+signées par le président et mises à disposition des
 adhérents de l’association. Ces décisions sont à effet
 immédiat, sauf mention contraire.
 
@@ -264,7 +264,7 @@ par l’assemblée générale extraordinaire, un ou
 plusieurs liquidateurs sont nommés par elle. L’actif,
 s’il y a lieu, est dévolu à une association poursuivant
 des buts similaires, conformément à l’article
-9 de la loi du 1ier juillet 1901 et au décret du
+9 de la loi du 1er juillet 1901 et au décret du
 16 août 1901.
 
 **Article 21.** L’assemblée générale établit un règlement
