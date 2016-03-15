@@ -144,8 +144,9 @@ prédécesseurs auraient dû expirer.
 
 **Article 12.** Au début de chaque mandat, le conseil
 d’administration élit en son sein un bureau composé
-de trois membres : le président, le trésorier
-et le secrétaire. La qualité de membre du bureau
+de six membres : le président, le vice-président, le trésorier, 
+le vice-trésorier, le secrétaire et le vice-secrétaire. 
+La qualité de membre du bureau
 s’ajoute à celle de membre du conseil d’administration
 sans la remplacer.
 
@@ -155,16 +156,19 @@ Il préside les réunions du conseil d’administration
 et des assemblées générales, dont il décide l’ordre
 du jour. Il présente le bilan moral de l’association
 à l’assemblée générale une fois par an. Il peut occasionnellement
-déléguer ses pouvoirs à un autre
-membre du conseil d’administration.
+déléguer ses pouvoirs au vice-président ou à un autre
+membre du conseil d’administration si ce dernier est indisponible.
+Le vice-président remplace
+le président en cas d’absence prolongée de
+celui-ci.
 
 Le trésorier autorise les dépenses et remboursements
 et collecte les recettes de l’association. Il
 tient les comptes et présente le bilan financer à
 l’assemblée générale ordinaire une fois par an. Il
-peut occasionnellement déléguer ses attributions
-à un autre membre du conseil d’administration. Il
-remplace le président en cas d’absence prolongée
+peut occasionnellement déléguer ses attributions  au vice-trésorier ou 
+à un autre membre du conseil d’administration  si ce dernier est indisponible. 
+Le vice-trésorier  remplace le trésorier en cas d’absence prolongée
 de celui-ci.
 
 Le secrétaire transcrit et rédige les comptes-rendus
@@ -173,10 +177,10 @@ et des assemblées générales. Il se charge de rendre
 publiques les décisions prises lors de ses réunions.
 Il tient à jour la liste des adhérents, des membres
 du conseil d’administration et du bureau. Il peut
-occasionnellement déléguer ses attributions à un
-autre membre du conseil d’administration. Il remplace
-le trésorier en cas d’absence prolongée de
-celui-ci.
+occasionnellement déléguer ses attributions à  au vice-secrétaire ou à un
+autre membre du conseil d’administration si ce dernier est indisponible.
+Le vice-secrétaire remplace le secrétaire en cas d’absence prolongée
+de celui-ci.
 
 **Article 14.** Les membres du bureau peuvent être
 démis de leurs fonctions par un vote des deux tiers
@@ -265,7 +269,8 @@ d’en modifier l’ordre du jour.
 
 **Article 19.** Les décisions prises par le conseil
 d’administration et les assemblées générales sont
-signées par le président et mises à disposition des
+signées par le président, ou par le vice-président en cas d'absence de celui-ci,
+et mises à disposition des
 adhérents de l’association. Ces décisions sont à effet
 immédiat, sauf mention contraire.
 
