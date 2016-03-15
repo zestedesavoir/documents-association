@@ -143,32 +143,37 @@ l’association dans tous les actes de la vie civile.
 Il préside les réunions du conseil d’administration
 et des assemblées générales, dont il décide l’ordre
 du jour. Il présente le bilan moral de l’association
-à l’assemblée générale une fois par an. Il peut occasionnellement
-déléguer ses pouvoirs au vice-président ou à un autre
-membre du conseil d’administration si ce dernier est indisponible.
-Le vice-président remplace
-le président en cas d’absence prolongée de
-celui-ci.
+à l’assemblée générale une fois par an. 
+
+Le vice-président seconde en toute chose le président et le remplace 
+de plein droit en cas d'empêchement.
+
+Le président peut occasionnellement déléguer ses pouvoirs à un autre
+membre du conseil d’administration si le vice-président est indisponible.
 
 Le trésorier autorise les dépenses et remboursements
 et collecte les recettes de l’association. Il
 tient les comptes et présente le bilan financer à
-l’assemblée générale ordinaire une fois par an. Il
-peut occasionnellement déléguer ses attributions  au vice-trésorier ou 
-à un autre membre du conseil d’administration  si ce dernier est indisponible. 
-Le vice-trésorier  remplace le trésorier en cas d’absence prolongée
-de celui-ci.
+l’assemblée générale ordinaire une fois par an.
+
+Le vice-trésorier seconde en toute chose le trésorier et le remplace 
+de plein droit en cas d'empêchement.
+
+Le trésorier peut occasionnellement déléguer ses pouvoirs à un autre
+membre du conseil d’administration si le vice-trésorier est indisponible.
 
 Le secrétaire transcrit et rédige les comptes-rendus
 de toutes les réunions du conseil d’administration
 et des assemblées générales. Il se charge de rendre
 publiques les décisions prises lors de ses réunions.
 Il tient à jour la liste des adhérents, des membres
-du conseil d’administration et du bureau. Il peut
-occasionnellement déléguer ses attributions à  au vice-secrétaire ou à un
-autre membre du conseil d’administration si ce dernier est indisponible.
-Le vice-secrétaire remplace le secrétaire en cas d’absence prolongée
-de celui-ci.
+du conseil d’administration et du bureau.  
+
+Le vice-secrétaire seconde en toute chose le secrétaire et le remplace 
+de plein droit en cas d'empêchement.
+
+Le secrétaire peut occasionnellement déléguer ses pouvoirs à un autre
+membre du conseil d’administration si le vice-secrétaire est indisponible.
 
 **Article 14.** Les membres du bureau peuvent être
 démis de leurs fonctions par un vote des deux tiers
