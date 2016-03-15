@@ -28,7 +28,7 @@ réelles, aidant à la réalisation de l’objet de l’association ;
 entrant dans le cadre de l’objet de l’association ;
 - tout autre moyen décidé par le conseil d’administration
 en accord avec l’objet social de l’association.
-c
+
 **Article 5.** Les ressources de l’association comprennent :
 
 - les cotisations versées par les membres ;
