@@ -73,7 +73,7 @@ prochain mandat.
 Le conseil d’administration est élu par l’assemblée
 générale pour un mandat d’un an renouvelable.
 Toute personne adhérente à l’association depuis
-plus de six mois, majeure ou mineure de 16 ans,
+plus de six mois, majeure ou mineure de 16 ans ou plus,
 est éligible. Les modalités de l’élection sont fixées
 par le règlement intérieur.
 
@@ -83,7 +83,7 @@ dans la limite des buts de l’association et dans
 le cadre des résolutions adoptées lors des assemblées
 générales.
 
-Le conseil contrôle l’activité du bureau, se
+Le conseil d'administration contrôle l’activité du bureau, se
 prononce sur toutes les admissions, décide les
 éventuelles mesures de radiation, nomme le personnel
 éventuel de l’association et détermine le
