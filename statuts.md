@@ -28,7 +28,7 @@ réelles, aidant à la réalisation de l’objet de l’association ;
 entrant dans le cadre de l’objet de l’association ;
 - tout autre moyen décidé par le conseil d’administration
 en accord avec l’objet social de l’association.
-
+c
 **Article 5.** Les ressources de l’association comprennent :
 
 - les cotisations versées par les membres ;
@@ -66,7 +66,7 @@ d’administration pour fournir ses explications
 sous quinze jours.
 
 **Article 8.** L’association est administrée par un
-conseil d’administration, composé de 4 à 25 personnes.
+conseil d’administration, composé de 13 à 25 personnes.
 Le nombre est fixé par le conseil pour le
 prochain mandat.
 
@@ -270,7 +270,7 @@ des buts similaires, conformément à l’article
 9 de la loi du 1er juillet 1901 et au décret du
 16 août 1901.
 
-**Article 21.** L’assemblée générale établit un règlement
+**Article 21.** Le conseil d'administration établit un règlement
 intérieur destiné à fixer les divers points non
 prévus par les présents statuts, notamment ceux
 ayant trait à l’administration interne de l’association.
