@@ -79,6 +79,27 @@ l’association pour l’année écoulée, et présente les projets futurs et le
 compte donner à l’association. Un vote négatif du bilan moral vaut démission des membres
 élus du CA tout entier.
 
+### Obligations des membres du bureau
+
+Chacun des membres du bureau s'engage à partager avec les membres du conseil d'administration 
+des moyens de contacts à jour incluant son numéro de téléphone, son adresse electronique et tout autre 
+moyen de communication permetant de le contacter rapidement en cas d'urgence.
+
+Toute absence prévu suppérieur à une semaine d'un membre du bureau doit être signalé au conseil d'administration.
+Chacun des postes d'administration du bureau (Présidence, Trésorie et Secretartiat) doit en permanence être représenté
+par au moins un membre disposant des informations et pouvoir décisionnels. Si les deux membres d'un même poste
+sont absent simultanément, ou si une absence est suppérieur à deux semaines, un membre du conseil d'administration 
+doit être nommé pour assuré le rôle temporairement (éventuellement un autre membre du bureau).
+
+Tout membre du bureau qui ne peut être contacté après une durée de deux semaines non signalé est automatiquement
+considéré comme absent et indisponible. Les dispositions précédentes et des status s'appliquent alors pour son remplacement
+temporaire. A son retour le membre du bureau sera invité a fournir une explication à son absence. Le reste du conseil 
+d'administration devra alors décider si le membre doit être démi de ces fonctions selon les conditions de l'article 11 des statuts de l'association.
+
+Un membre adjoint du bureau (Vice-président, Vice-trésorier et Vice-secrétaire) peut temporairement appliquer le 
+pouvoir décisionnel de leur responsable respectif si ces derniers ne peuvent être contactés et qu'une attente
+suppérieur mettrai en péril une des activités principale du site selon l'avis d'au moins un quart des membres du conseil d'administration ou d'un des responsables techniques désigné par le conseil d'administration.
+
 ## Organisation Interne
 
 Afin de faciliter ses différentes actions, l’association les organise suivant les modalités suivantes :
