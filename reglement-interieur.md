@@ -93,12 +93,14 @@ doit être nommé pour assuré le rôle temporairement (éventuellement un autre
 
 Tout membre du bureau qui ne peut être contacté après une durée de deux semaines non signalé est automatiquement
 considéré comme absent et indisponible. Les dispositions précédentes et des status s'appliquent alors pour son remplacement
-temporaire. A son retour le membre du bureau sera invité a fournir une explication à son absence. Le reste du conseil 
-d'administration devra alors décider si le membre doit être démi de ces fonctions selon les conditions de l'article 11 des statuts de l'association.
+temporaire. A son retour, ou à défaut après une absence de quatres semaines, le membre du bureau sera invité a fournir 
+une explication à son absence. Le reste du conseil d'administration devra alors décider si le membre doit être 
+démi de ces fonctions selon les conditions de l'article 11 des statuts de l'association. Le membre absent dispose de 
+deux semaines pour fournir ces explications.
 
 Un membre adjoint du bureau (Vice-président, Vice-trésorier et Vice-secrétaire) peut temporairement appliquer le 
 pouvoir décisionnel de leur responsable respectif si ces derniers ne peuvent être contactés et qu'une attente
-suppérieur mettrai en péril une des activités principale du site selon l'avis d'au moins un quart des membres du conseil d'administration ou d'un des responsables techniques désigné par le conseil d'administration.
+supérieure mettrai en péril une des activités principale du site selon l'avis d'au moins un quart des membres du conseil d'administration ou d'un des responsables techniques désignés par le conseil d'administration.
 
 ## Organisation Interne
 
