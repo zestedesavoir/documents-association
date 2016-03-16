@@ -55,20 +55,20 @@ compte donner à l’association. Un vote négatif du bilan moral vaut démissio
 ### Obligations des membres du bureau
 
 Chacun des membres du bureau s'engage à partager avec les membres du conseil d'administration 
-des moyens de contacts à jour incluant son numéro de téléphone, son adresse electronique et tout autre 
-moyen de communication permetant de le contacter rapidement en cas d'urgence.
+des moyens de contacts à jour incluant son numéro de téléphone, son adresse électronique et tout autre 
+moyen de communication permettant de le contacter rapidement en cas d'urgence.
 
-Toute absence prévu suppérieur à une semaine d'un membre du bureau doit être signalé au conseil d'administration.
-Chacun des postes d'administration du bureau (Présidence, Trésorie et Secretartiat) doit en permanence être représenté
-par au moins un membre disposant des informations et pouvoir décisionnels. Si les deux membres d'un même poste
-sont absent simultanément, ou si une absence est suppérieur à deux semaines, un membre du conseil d'administration 
-doit être nommé pour assuré le rôle temporairement (éventuellement un autre membre du bureau).
+Toute absence prévue supérieure à une semaine d'un membre du bureau doit être signalé au conseil d'administration.
+Chacun des postes d'administration du bureau (Présidence, Trésorie et Secrétariat) doit en permanence être représenté
+par au moins un membre disposant des informations et pouvoirs décisionnels. Si les deux membres d'un même poste
+sont absents simultanément, ou si une absence est absents à deux semaines, un membre du conseil d'administration 
+doit être nommé pour assurer le rôle temporairement (éventuellement un autre membre du bureau).
 
-Tout membre du bureau qui ne peut être contacté après une durée de deux semaines non signalé est automatiquement
-considéré comme absent et indisponible. Les dispositions précédentes et des status s'appliquent alors pour son remplacement
+Tout membre du bureau qui ne peut être contacté après une durée de deux semaines non signalées est automatiquement
+considéré comme absent et indisponible. Les dispositions précédentes et et les statuts s'appliquent alors pour son remplacement
 temporaire. A son retour, ou à défaut après une absence de quatres semaines, le membre du bureau sera invité a fournir 
-une explication à son absence. Le reste du conseil d'administration devra alors décider si le membre doit être 
-démi de ces fonctions selon les conditions de l'article 11 des statuts de l'association. Le membre absent dispose de 
+une explication de son absence. Le reste du conseil d'administration devra alors décider si le membre doit être 
+démi de ses fonctions selon les termes de l'article 11 des statuts de l'association. Le membre absent dispose de 
 deux semaines pour fournir ces explications.
 
 Un membre adjoint du bureau (Vice-président, Vice-trésorier et Vice-secrétaire) peut temporairement appliquer le 
