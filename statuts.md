@@ -236,17 +236,19 @@ se réunit physiquement sur convocation du président
 ou à la demande de la moitié des membres.
 
 Les conditions de convocation sont identiques à
-celles d’une assemblée générale ordinaire. L’ordre
-du jour est la modification des statuts ou la dissolution
-de l’association.
+celles d’une assemblée générale ordinaire.
 
 L’assemblée générale extraordinaire délibère valablement
-si les deux tiers des membres sont
-présents. Les décisions sont prises à la majorité absolue
-des présents, votées à bulletin secret.
+si les deux tiers des membres sont présents. Les décisions
+sont prises à la majorité simple des présents,
+à main levée. Le vote est effectué à bulletin secret
+à la demande d’au moins un membre.
 
 Le vote par procuration n’est pas autorisé, mais le
 vote par correspondance l’est.
+
+L’assemblée générale extraordinaire n’a pas le pouvoir
+d’en modifier l’ordre du jour.
 
 **Article 19.** Les décisions prises par le conseil
 d’administration et les assemblées générales sont
