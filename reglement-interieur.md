@@ -27,11 +27,11 @@ sont définies par le présent règlement intérieur.
 
 L'élection des membres du Conseil d’administration a lieu lors de l'Assemblée Générale Ordinaire.
 
-Toute personne adhérente à l’association depuis plus de six mois, majeure ou mineure de 16 ans, est
+Toute personne adhérente à l’association depuis plus de six mois, majeure ou mineure âgée de 16 ans ou plus, est
 éligible.
 
 Toute personne adhérente à l'association peut participer au vote du Conseil d'administration,
-majeure ou mineure de 16 ans.
+majeure ou mineure âgée de 16 ans ou plus.
 
 L'élection est faite par vote à main levée, à la majorité simple des présents. Le vote est effectué à
 bulletin secret à la demande d’au moins un membre.
