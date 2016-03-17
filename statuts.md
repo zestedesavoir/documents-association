@@ -66,7 +66,7 @@ d’administration pour fournir ses explications
 sous quinze jours.
 
 **Article 8.** L’association est administrée par un
-conseil d’administration, composé de 13 à 25 personnes.
+conseil d’administration, composé de 6 à 25 personnes.
 Le nombre est fixé par le conseil pour le
 prochain mandat.
 
@@ -267,8 +267,8 @@ des buts similaires, conformément à l’article
 9 de la loi du 1ier juillet 1901 et au décret du
 16 août 1901.
 
-**Article 21.** Le conseil d'administration établit un règlement
-intérieur destiné à fixer les divers points non
+**Article 21.** L’assemblée générale et conseil d'administration 
+établissent un règlement intérieur destiné à fixer les divers points non
 prévus par les présents statuts, notamment ceux
 ayant trait à l’administration interne de l’association.
 
