@@ -61,7 +61,7 @@ moyen de communication permettant de le contacter rapidement en cas d'urgence.
 Toute absence prévue supérieure à une semaine d'un membre du bureau doit être signalé au conseil d'administration.
 Chacun des postes d'administration du bureau (Présidence, Trésorie et Secrétariat) doit en permanence être représenté
 par au moins un membre disposant des informations et pouvoirs décisionnels. Si les deux membres d'un même poste
-sont absents simultanément, ou si une absence est absents à deux semaines, un membre du conseil d'administration 
+sont absents simultanément, ou si une absence est supérieure à deux semaines, un membre du conseil d'administration 
 doit être nommé pour assurer le rôle temporairement (éventuellement un autre membre du bureau).
 
 Tout membre du bureau qui ne peut être contacté après une durée de deux semaines non signalées est automatiquement
