@@ -222,9 +222,9 @@ et l’ordre du jour.
 
 L’assemblée générale ordinaire délibère valablement
 quelque soit le nombre de présents. Les décisions
-sont prises à la majorité simple des présents,
-à main levée. Le vote est effectué à bulletin secret
-à la demande d’au moins un membre.
+sont prises à la majorité simple des votes exprimés.
+Le vote est effectué à bulletin secret à la demande
+d’au moins un membre.
 
 Le vote par correspondance ou par procuration est
 autorisé. Nul ne peut être porteur de plus d’une
@@ -240,9 +240,9 @@ celles d’une assemblée générale ordinaire.
 
 L’assemblée générale extraordinaire délibère valablement
 si les deux tiers des membres sont présents. Les décisions
-sont prises à la majorité simple des présents,
-à main levée. Le vote est effectué à bulletin secret
-à la demande d’au moins un membre.
+sont prises à la majorité simple des votes exprimés.
+Le vote est effectué à bulletin secret à la demande
+d’au moins un membre.
 
 Le vote par procuration n’est pas autorisé, mais le
 vote par correspondance l’est.
