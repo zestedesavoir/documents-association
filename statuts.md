@@ -73,7 +73,7 @@ prochain mandat.
 Le conseil d’administration est élu par l’assemblée
 générale pour un mandat d’un an renouvelable.
 Toute personne adhérente à l’association depuis
-plus de six mois, majeure ou mineure de 16 ans,
+plus de six mois, majeure ou mineure âgée de 16 ans ou plus
 est éligible. Les modalités de l’élection sont fixées
 par le règlement intérieur.
 
