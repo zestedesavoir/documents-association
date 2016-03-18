@@ -73,9 +73,21 @@ prochain mandat.
 Le conseil d’administration est élu par l’assemblée
 générale pour un mandat d’un an renouvelable.
 Toute personne adhérente à l’association depuis
-plus de six mois, majeure ou mineure âgée de 16 ans ou plus
-est éligible. Les modalités de l’élection sont fixées
-par le règlement intérieur.
+plus de six mois, majeure ou mineure âgée de 16 ans ou plus,
+est éligible et peut participer au vote du Conseil d'administration.
+
+L'élection est faite par vote à main levée, à la majorité simple des présents. 
+Le vote est effectué à bulletin secret à la demande d’au moins un membre.
+Le vote par correspondance ou par procuration est autorisé. 
+Nul ne peut être porteur de plus d’une procuration.
+
+Si le minimum de 6 personnes n'est pas atteint, le vote est annulé et devra être réorganisé lors d'une
+Assemblée Générale Extraordinaire. Si à la suite de ce deuxième vote le minimum de 6 personnes
+n'est pas atteint, l'ancien conseil d'administration devra procéder aux démarches de dissolution de
+l’association.
+
+Si plus de 25 personnes obtiennent la majorité simple, un second tour devra être effectué dans les
+mêmes conditions que le premier vote.
 
 **Article 9.** Le conseil d’administration est investi
 d’une manière générale des pouvoirs les plus étendus
