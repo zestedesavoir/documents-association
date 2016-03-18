@@ -21,34 +21,7 @@ membres à un projet. Cette association est libre et chacun est libre de la refu
 
 Le Conseil d’administration est l’instance qui assure la gestion de l’association au cours de l’année.
 Sa mission et de réunion sont définies par les statuts de l’association. Ses modalités de constitution
-sont définies par le présent règlement intérieur.
-
-#### Élection
-
-L'élection des membres du Conseil d’administration a lieu lors de l'Assemblée Générale Ordinaire.
-
-Toute personne adhérente à l’association depuis plus de six mois, majeure ou mineure de 16 ans, est
-éligible.
-
-Toute personne adhérente à l'association peut participer au vote du Conseil d'administration,
-majeure ou mineure de 16 ans.
-
-L'élection est faite par vote à main levée, à la majorité simple des présents. Le vote est effectué à
-bulletin secret à la demande d’au moins un membre.
-
-Le vote par correspondance ou par procuration est autorisé. Nul ne peut être porteur de plus d’une
-procuration.
-
-Comme défini dans les statuts, devront être élus un minimum de 4 personnes et un maximum de 25
-personnes.
-
-Si le minimum de 4 personnes n'est pas atteint, le vote est annulé et devra être réorganisé lors d'une
-Assemblée Générale Extraordinaire. Si à la suite de ce deuxième vote le minimum de 4 personnes
-n'est pas atteint, l'ancien conseil d'administration devra procéder aux démarches de dissolution de
-l’association.
-
-Si plus de 25 personnes obtiennent la majorité simple, un second tour devra être effectué dans les
-mêmes conditions que le premier vote.
+sont définies dans les statuts de l'association.
 
 #### Charte de fonctionnement du CA
 
