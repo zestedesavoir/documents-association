@@ -66,16 +66,28 @@ d’administration pour fournir ses explications
 sous quinze jours.
 
 **Article 8.** L’association est administrée par un
-conseil d’administration, composé de 4 à 25 personnes.
+conseil d’administration, composé de 6 à 25 personnes.
 Le nombre est fixé par le conseil pour le
 prochain mandat.
 
 Le conseil d’administration est élu par l’assemblée
 générale pour un mandat d’un an renouvelable.
 Toute personne adhérente à l’association depuis
-plus de six mois, majeure ou mineure de 16 ans,
-est éligible. Les modalités de l’élection sont fixées
-par le règlement intérieur.
+plus de six mois, majeure ou mineure âgée de 16 ans ou plus,
+est éligible et peut participer au vote du Conseil d'administration.
+
+L'élection est faite par vote à main levée, à la majorité simple des présents. 
+Le vote est effectué à bulletin secret à la demande d’au moins un membre.
+Le vote par correspondance ou par procuration est autorisé. 
+Nul ne peut être porteur de plus d’une procuration.
+
+Si le minimum de 6 personnes n'est pas atteint, le vote est annulé et devra être réorganisé lors d'une
+Assemblée Générale Extraordinaire. Si à la suite de ce deuxième vote le minimum de 6 personnes
+n'est pas atteint, l'ancien conseil d'administration devra procéder aux démarches de dissolution de
+l’association.
+
+Si plus de 25 personnes obtiennent la majorité simple, un second tour devra être effectué dans les
+mêmes conditions que le premier vote.
 
 **Article 9.** Le conseil d’administration est investi
 d’une manière générale des pouvoirs les plus étendus
@@ -267,8 +279,9 @@ des buts similaires, conformément à l’article
 9 de la loi du 1ier juillet 1901 et au décret du
 16 août 1901.
 
-**Article 21.** L’assemblée générale établit un règlement
-intérieur destiné à fixer les divers points non
+**Article 21.** L’assemblée générale établit un règlement intérieur
+destiné à fixer les divers points non
 prévus par les présents statuts, notamment ceux
 ayant trait à l’administration interne de l’association.
-
+L’assemblée générale et le conseil d’administration sont tous deux 
+habilités à modifier le règlement intérieur.
