@@ -279,8 +279,9 @@ des buts similaires, conformément à l’article
 9 de la loi du 1ier juillet 1901 et au décret du
 16 août 1901.
 
-**Article 21.** L’assemblée générale et conseil d'administration 
-établissent un règlement intérieur destiné à fixer les divers points non
+**Article 21.** L’assemblée générale établit un règlement intérieur
+destiné à fixer les divers points non
 prévus par les présents statuts, notamment ceux
 ayant trait à l’administration interne de l’association.
-
+L’assemblée générale et le conseil d’administration sont tous deux 
+habilités à modifier le règlement intérieur.
