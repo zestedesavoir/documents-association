@@ -134,3 +134,17 @@ demande d'exonération devra être motivée par le membre concerné pour des rai
 
 L'exonération devra être votée par les deux tiers des membres du Conseil d'Administration.
 
+### Documents et services relatif à l'association
+
+Les membres du bureau doivent partager entre eux électroniquement tous les documents et 
+informations d'accès aux services liés à l'association permettant ainsi la possibilité de 
+reprise de leur fonction par un autre membre du bureau ou du conseil d'administration en 
+cas d'indisponibilité ou à la fin de leur mandat.
+
+Les membres du bureau sont incités à partager publiquement tout document relatif à l'association 
+dont la mise à disposition publique ne pose pas de risque pour la gestion de l'association.
+Tout membre de l'association peut faire la demande de mise à des documents relatifs à l'association.
+Le conseil d'administration décide alors de cette mise à disposition après avis des membres du bureau.
+
+Tous les documents produits par l'association doivent être placé sous une licence
+[CC BY 4.0](http://creativecommons.org/licenses/by/4.0/) tant que cela ne pose pas de problèmes juridiques.
