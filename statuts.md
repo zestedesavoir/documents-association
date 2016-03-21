@@ -222,9 +222,9 @@ et l’ordre du jour.
 
 L’assemblée générale ordinaire délibère valablement
 quelque soit le nombre de présents. Les décisions
-sont prises à la majorité simple des présents,
-à main levée. Le vote est effectué à bulletin secret
-à la demande d’au moins un membre.
+sont prises à la majorité simple des votes exprimés.
+Le vote est effectué à bulletin secret à la demande
+d’au moins un membre.
 
 Le vote par correspondance ou par procuration est
 autorisé. Nul ne peut être porteur de plus d’une
@@ -232,21 +232,24 @@ procuration.
 
 **Article 18.** L’assemblée générale extraordinaire
 comprend tous les membres de l’association. Elle
-se réunit physiquement sur convocation du président
-ou à la demande de la moitié des membres.
+se réunit, éventuellement électroniquement, sur
+convocation du président ou à la demande de la moitié au moins
+des membres.
 
 Les conditions de convocation sont identiques à
-celles d’une assemblée générale ordinaire. L’ordre
-du jour est la modification des statuts ou la dissolution
-de l’association.
+celles d’une assemblée générale ordinaire.
 
 L’assemblée générale extraordinaire délibère valablement
-si les deux tiers des membres sont
-présents. Les décisions sont prises à la majorité absolue
-des présents, votées à bulletin secret.
+si les deux tiers des membres sont présents. Les décisions
+sont prises à la majorité simple des votes exprimés.
+Le vote est effectué à bulletin secret à la demande
+d’au moins un membre.
 
 Le vote par procuration n’est pas autorisé, mais le
 vote par correspondance l’est.
+
+L’assemblée générale extraordinaire n’a pas le pouvoir
+d’en modifier l’ordre du jour.
 
 **Article 19.** Les décisions prises par le conseil
 d’administration et les assemblées générales sont
@@ -271,4 +274,3 @@ des buts similaires, conformément à l’article
 intérieur destiné à fixer les divers points non
 prévus par les présents statuts, notamment ceux
 ayant trait à l’administration interne de l’association.
-
