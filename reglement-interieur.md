@@ -146,3 +146,6 @@ Les membres du bureau sont incités à partager publiquement tout document relat
 dont la mise à disposition publique ne pose pas de risque pour la gestion de l'association.
 Tout membre de l'association peut faire la demande de mise à des documents relatifs à l'association.
 Le conseil d'administration décide alors de cette mise à disposition après avis des membres du bureau.
+
+Tous les documents produits par l'association doivent être placé sous une licence
+[CC BY 4.0](http://creativecommons.org/licenses/by/4.0/) tant que cela ne pose pas de problèmes juridiques.
