@@ -11,8 +11,9 @@ pédagogiques, de préférence sous licence libre, qu’elle
 met à disposition gratuitement.
 
 **Article 3.** Le siège social est fixé au domicile du
-président de l’association. Il pourra être transféré
-par simple décision du conseil d’administration.
+président de l’association ou dans un autre local mis à disposition 
+par la collectivité publique (ex : maison des associations). 
+Il pourra être transféré par simple décision du conseil d’administration.
 
 La durée de l’association est illimitée.
 
