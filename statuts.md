@@ -233,7 +233,7 @@ procuration.
 **Article 18.** L’assemblée générale extraordinaire
 comprend tous les membres de l’association. Elle
 se réunit, éventuellement électroniquement, sur
-convocation du président ou à la demande de la moitié
+convocation du président ou à la demande de la moitié au moins
 des membres.
 
 Les conditions de convocation sont identiques à
@@ -274,4 +274,3 @@ des buts similaires, conformément à l’article
 intérieur destiné à fixer les divers points non
 prévus par les présents statuts, notamment ceux
 ayant trait à l’administration interne de l’association.
-
