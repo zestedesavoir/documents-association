@@ -103,6 +103,10 @@ pouvoir décisionnel de son responsable respectif si ce dernier ne peut être co
 supérieure mettrait en péril une des activités de l'association selon l'avis d'au moins un quart des 
 membres du conseil d'administration ou d'un des responsables techniques désignés par le conseil d'administration.
 
+Un membre du bureau peut ponctuellement être remplacé, par son adjoint du bureau, à sa demande ou à celle du 
+conseil d'administration si la décision à prendre peut présenter un conflit d'intérêt entre les objectifs de
+l'association et ses activités personnelles en dehors de l'association.
+
 ## Organisation Interne
 
 Afin de faciliter ses différentes actions, l’association les organise suivant les modalités suivantes :
