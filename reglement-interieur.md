@@ -12,7 +12,7 @@ spécifiques à l’association. C’est le rôle du règlement intérieur.
 La loi de 1901 définit l’association comme _« la convention par laquelle deux ou
 plusieurs personnes mettent en commun, d’une façon permanente, leurs
 connaissances ou leur activité dans un but autre que de partager des
-bénéfices ».
+bénéfices »_.
 
 Adhérer c’est permettre le développement des objectifs fixés dans les statuts.
 C’est l’association des membres à un projet. Cette association est libre et
