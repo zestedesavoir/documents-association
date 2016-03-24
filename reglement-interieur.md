@@ -61,8 +61,13 @@ d’un candidat.
 étant soumises au statut de membre associé.
 - Toute action doit être soumise au vote du CA qui répond dans un délai court et
 connu d’avance.
-- L’association ne fera pas d’action avec les organisations xénophobes ou visant à
-restreindre l’accès à l’information.
+- Le CA n'engagera l'association dans aucune forme de collaboration à laquelle
+des organisations ou personnes ayant des positions ou tenant des propos
+discriminatoires prendraient part. Sont jugées discriminatoires notamment les
+distinctions opérées entre les personnes à raison de leur niveau d'expérience,
+leur sexe, leur identité ou leur expression de genre, leur orientation sexuelle,
+leur handicap, leur apparence personnelle, leur taille physique, leur race, leur
+origine ethnique, leur âge, leur religion ou leur nationalité.
 
 ### Bilans
 
