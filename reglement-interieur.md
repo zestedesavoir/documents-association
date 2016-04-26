@@ -45,7 +45,8 @@ discriminatoires prendraient part. Sont jugées discriminatoires notamment les
 distinctions opérées entre les personnes à raison de leur niveau d'expérience,
 leur sexe, leur identité ou leur expression de genre, leur orientation sexuelle,
 leur handicap, leur apparence personnelle, leur taille physique, leur race, leur
-origine ethnique, leur âge, leur religion ou leur nationalité.
+origine ethnique, leur âge, leur religion ou leur nationalité. Le CA ne fera pas 
+non plus d’action avec les organisations visant à restreindre l’accès à l’information.
 
 
 ### Bilans
