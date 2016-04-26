@@ -29,7 +29,7 @@ D'autres documents sous format PDF sont disponibles et à disposition des membre
 
 ## Documents privés
 
-Cette liste repertorie les documents qui n'ont pas été rendu publics mais sont à disposition des membres du bureau de l'association. Selon la section **Documents et services relatif à l'association** du règlement intérieur, *tout membre de l'association peut faire la demande de mise à disposition public des documents relatifs à l'association. Le conseil d'administration décide alors de cette mise à disposition après avis des membres du bureau.*
+Cette liste repertorie les documents qui n'ont pas été rendu publics mais sont à disposition des membres du bureau de l'association. Selon la section **Documents et services relatif à l'association** du règlement intérieur, *tout membre de l'association peut faire la demande de mise à  disposition publique des documents relatifs à l'association. Le conseil d'administration décide alors de cette mise à disposition après avis des membres du bureau.*
 
  - Recepisse de déclaration à la CNIL
 
