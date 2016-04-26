@@ -146,7 +146,9 @@ vote à la majorité des deux tiers de ses membres.
 
 Toute personne souhaitant adhérer à « Zeste de Savoir » doit s’acquitter d'une
 cotisation. Le montant de la cotisation est fixé lors de l'Assemblée Générale
-Ordinaire sur proposition du Conseil d'Administration. Le montant de la
+Ordinaire sur proposition du Conseil d'Administration. Le montant de la cotisation 
+peut être fixé exceptionnellement par le conseil d'administration seul sur demande 
+explicite de l'assemblée générale. Le montant de la
 cotisation sera noté dans le présent Règlement Intérieur.
 
 #### Exonération
