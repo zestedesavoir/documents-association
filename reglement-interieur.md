@@ -172,7 +172,7 @@ mandat.
 Les membres du bureau sont incités à partager publiquement tout document relatif
 à l'association dont la mise à disposition publique ne pose pas de risque pour
 la gestion de l'association. Tout membre de l'association peut faire la demande
-de mise à des documents relatifs à l'association. Le conseil d'administration
+de mise à disposition du public des documents relatifs à l'association. Le conseil d'administration
 décide alors de cette mise à disposition après avis des membres du bureau.
 
 Tous les documents produits par l'association doivent être placés sous une
