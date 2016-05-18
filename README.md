@@ -35,11 +35,17 @@ D'autres documents sous format PDF sont disponibles et à disposition des membre
 
 Cette liste repertorie les documents qui n'ont pas été rendu publics mais sont à disposition des membres du bureau de l'association. Selon la section **Documents et services relatif à l'association** du règlement intérieur, *tout membre de l'association peut faire la demande de mise à disposition du public des documents relatifs à l'association. Le conseil d'administration décide alors de cette mise à disposition après avis des membres du bureau.*
 
+Pour toute demande particulière, contacter l'association à zestedesavoir@gmail.com.
+
  - Déclaration et recepisse de déclaration à la CNIL
  - Note pour les futures membres du bureau (annotations des démarches à effectuer lors du changement du bureau, comptes et actions à effectuer)
  - Facture et devis:
   - 2016 / AGECA : Devis AGECA pour la location de la première salle envisagé pour l'AG & Attestation de virement depuis le compte personnel du secretaire 
  - AG : Procurations des membres absents
+ - Demande de changement en prefecture :
+  - Résumé demande 1
+  - Rejet 1
+  - Résumé demande 2
 
 -------
 
