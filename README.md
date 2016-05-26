@@ -42,11 +42,13 @@ Pour toute demande particulière, contacter l'association à zestedesavoir@gmail
  - Facture et devis:
   - 2016 / AGECA : Devis AGECA pour la location de la première salle envisagé pour l'AG & Attestation de virement depuis le compte personnel du secretaire 
  - AG : Procurations des membres absents
- - Demande de changement en prefecture :
+ - Demande de changement en prefecture (2016) :
   - Résumé demande 1
   - Rejet 1
   - Résumé demande 2
-
+  - Recepissé acceptation changement
+ - PV 2eme Réunion du CA (*12 Mai 2016*)
+ 
 -------
 
 Sauf mention contraire, l'ensemble des documents est sous la licence 
