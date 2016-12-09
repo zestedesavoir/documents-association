@@ -102,6 +102,34 @@ bureau, à sa demande ou à celle du conseil d'administration si la décision à
 prendre peut présenter un conflit d'intérêt entre les objectifs de l'association
 et ses activités personnelles en dehors de l'association.
 
+### Obligations des membres du bureau
+
+Chacun des membres du bureau s'engage à partager avec les membres du conseil d'administration 
+des moyens de contacts à jour incluant son numéro de téléphone, son adresse électronique et tout autre 
+moyen de communication permettant de le contacter rapidement en cas d'urgence.
+
+Toute indisponibilité prévue supérieure à une semaine d'un membre du bureau doit être signalé au conseil d'administration.
+Chacun des postes d'administration du bureau (Présidence, Trésorie et Secrétariat) doit en permanence être représenté
+par au moins un membre disposant des informations et pouvoirs décisionnels. Si les deux membres d'un même poste
+sont indisponibles simultanément, ou si une indisponibilité est supérieure à deux semaines, un membre du conseil
+d'administration doit être nommé pour assurer le rôle temporairement.
+
+Tout membre du bureau qui ne peut être contacté après une durée de deux semaines non signalées est automatiquement
+considéré comme absent et indisponible. Les dispositions précédentes et les statuts s'appliquent alors pour son remplacement
+temporaire. A son retour, ou à défaut après une absence de contacts durant quatre semaines, le membre du bureau sera invité a fournir 
+une explication de son indisponibilité. Le reste du conseil d'administration devra alors décider si le membre doit être 
+démi de ses fonctions selon les termes de l'article 11 des statuts de l'association. Le membre indisponible dispose de 
+deux semaines pour fournir ces explications.
+
+Un membre adjoint du bureau (Vice-président, Vice-trésorier et Vice-secrétaire) peut temporairement appliquer le 
+pouvoir décisionnel de son responsable respectif si ce dernier ne peut être contacté et qu'une attente
+supérieure mettrait en péril une des activités de l'association selon l'avis d'au moins un quart des 
+membres du conseil d'administration ou d'un des responsables techniques désignés par le conseil d'administration.
+
+Un membre du bureau peut ponctuellement être remplacé, par son adjoint du bureau, à sa demande ou à celle du 
+conseil d'administration si la décision à prendre peut présenter un conflit d'intérêt entre les objectifs de
+l'association et ses activités personnelles en dehors de l'association.
+
 ## Organisation Interne
 
 Afin de faciliter ses différentes actions, l’association les organise suivant
