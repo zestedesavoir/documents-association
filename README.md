@@ -25,11 +25,13 @@ D'autres documents sous format PDF sont disponibles et à disposition des membre
     - [AG constitutive](https://drive.google.com/open?id=0BzabS14KitJgYXl5eW1ZRFQ5NUU) *(15-03-2014)*
     - [AG ordinaire](https://drive.google.com/open?id=0BzabS14KitJgQVZyamZjUEtlTms) *(11-04-2015)*
     - [AG ordinaire](https://drive.google.com/open?id=0BzabS14KitJgcXVqb0Y4R0VyUWM) *(16-04-2016)*
+    - [AG ordinaire](https://drive.google.com/open?id=0B1uBR2hmcLbMaENDQm1ucjVvTk0) *(08-04-2017)*
  - Réunions du CA:
     - [Réunion du CA - Post AG constitutive](https://drive.google.com/open?id=0BzabS14KitJgUmFtSmQ5UHFFbms) *(15-03-2014)*
     - [Réunion du CA ordinaire](https://drive.google.com/open?id=0BzabS14KitJgT1RybzJJcnphMWc) *(05-05-2014)*
     - [Réunion du CA - Post AG ordinaire](https://drive.google.com/open?id=0BzabS14KitJgbS1Lc2tDVEhMZ2M) *(11-04-2015)*
     - [Réunion du CA - Post AG ordinaire](https://drive.google.com/open?id=0BzabS14KitJgOXZ5c0UwR095Y0E) *(16-04-2016)*
+    - [Réunion du CA - Post AG ordinaire](https://drive.google.com/open?id=0B1uBR2hmcLbMRDhGNm5iUFpKejg) *(08-04-2017)*
 
 ## Documents privés
 
