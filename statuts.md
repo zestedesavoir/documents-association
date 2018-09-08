@@ -1,15 +1,15 @@
-**Article 1.** Il est fondé entre les adhérents aux présents statuts une 
+**Article 1.** Il est fondé entre les adhérents aux présents statuts une
 association régie par la Loi du 1er juillet 1901 et le décret du 16 août 1901,
 ayant pour titre : « **Zeste de Savoir** ».
 
-**Article 2.** Cette association a pour but de promouvoir le partage de 
-connaissances et d’aider à l’auto-formation dans divers domaines, notamment 
-informatiques et scientifiques. Elle édite diverses ressources pédagogiques, 
+**Article 2.** Cette association a pour but de promouvoir le partage de
+connaissances et d’aider à l’auto-formation dans divers domaines, notamment
+informatiques et scientifiques. Elle édite diverses ressources pédagogiques,
 de préférence sous licence libre, qu’elle met à disposition gratuitement.
 
-**Article 3.** Le siège social est fixé au domicile du président de 
-l’association ou dans un autre local mis à disposition par la collectivité 
-publique de la commune de résidence du président (ex : maison des associations). 
+**Article 3.** Le siège social est fixé au domicile du président de
+l’association ou dans un autre local mis à disposition par la collectivité
+publique de la commune de résidence du président (ex : maison des associations).
 Il pourra être transféré par simple décision du conseil d’administration.
 
 La durée de l’association est illimitée.
@@ -20,7 +20,7 @@ La durée de l’association est illimitée.
 - l’édition de sites web ;
 - l’organisation de manifestations, en ligne ou réelles, aidant à la réalisation
 de l’objet de l’association ;
-- la vente permanente ou occasionnelle de produits entrant dans le cadre de 
+- la vente permanente ou occasionnelle de produits entrant dans le cadre de
 l’objet de l’association ;
 - tout autre moyen décidé par le conseil d’administration en accord avec l’objet
 social de l’association.
@@ -34,80 +34,80 @@ publiques ;
 - les recettes provenant de la vente de produits fournis par l’association ;
 - toutes les ressources autorisées par les lois en vigueur.
 
-**Article 6.** L’adhésion à l’association se fait en adressant une demande 
+**Article 6.** L’adhésion à l’association se fait en adressant une demande
 écrite auprès du secrétaire. Le conseil d’administration statue sur les demandes
-d’adhésion et informe ensuite les candidats de sa décision. Les demandes 
+d’adhésion et informe ensuite les candidats de sa décision. Les demandes
 d’adhésion pourront être refusées sans fournir de motif.
 
-Toute personne dont la demande d’adhésion a été acceptée et à jour dans ses 
+Toute personne dont la demande d’adhésion a été acceptée et à jour dans ses
 cotisations est membre de l’association.
 
-**Article 7.** La qualité de membre se perd par décès, démission adressée par 
+**Article 7.** La qualité de membre se perd par décès, démission adressée par
 écrit au président ou radiation prononcée par le conseil d’administration.
 
-La radiation sera uniquement prononcée pour défaut de paiement de cotisation, 
-cessation de participation aux activités de l’association, manquement au 
+La radiation sera uniquement prononcée pour défaut de paiement de cotisation,
+cessation de participation aux activités de l’association, manquement au
 règlement intérieur ou aux statuts ou pour motif grave.
 
-L’intéressé sera invité à se présenter devant le conseil d’administration pour 
+L’intéressé sera invité à se présenter devant le conseil d’administration pour
 fournir ses explications sous quinze jours.
 
-**Article 8.** L’association est administrée par un conseil d’administration, 
+**Article 8.** L’association est administrée par un conseil d’administration,
 composé de 6 à 25 personnes. Le nombre est fixé par le conseil pour le prochain
 mandat.
 
 Le conseil d’administration est élu par l’assemblée générale pour un mandat d’un
-an renouvelable. Toute personne adhérente à l’association depuis plus de six 
+an renouvelable. Toute personne adhérente à l’association depuis plus de six
 mois, majeure ou mineure âgée de 16 ans ou plus, est éligible et peut participer
 au vote du Conseil d'administration.
 
-L'élection est faite par vote à main levée, à la majorité simple des présents. 
-Le vote est effectué à bulletin secret à la demande d’au moins un membre. Le 
-vote par correspondance ou par procuration est autorisé. Nul ne peut être 
+L'élection est faite par vote à main levée, à la majorité simple des présents.
+Le vote est effectué à bulletin secret à la demande d’au moins un membre. Le
+vote par correspondance ou par procuration est autorisé. Nul ne peut être
 porteur de plus d’une procuration.
 
 Si le minimum de 6 personnes n'est pas atteint, le vote est annulé et devra être
-réorganisé lors d'une Assemblée Générale Extraordinaire. Si à la suite de ce 
-deuxième vote le minimum de 6 personnes n'est pas atteint, l'ancien conseil 
+réorganisé lors d'une Assemblée Générale Extraordinaire. Si à la suite de ce
+deuxième vote le minimum de 6 personnes n'est pas atteint, l'ancien conseil
 d'administration devra procéder aux démarches de dissolution de l’association.
 
 Si plus de 25 personnes obtiennent la majorité simple, un second tour devra être
 effectué dans les mêmes conditions que le premier vote.
 
-**Article 9.** Le conseil d’administration est investi d’une manière générale 
+**Article 9.** Le conseil d’administration est investi d’une manière générale
 des pouvoirs les plus étendus dans la limite des buts de l’association et dans
 le cadre des résolutions adoptées lors des assemblées générales.
 
 Le conseil contrôle l’activité du bureau, se prononce sur toutes les admissions,
-décide les éventuelles mesures de radiation, nomme le personnel éventuel de 
+décide les éventuelles mesures de radiation, nomme le personnel éventuel de
 l’association et détermine le montant de sa rénumération.
 
-Il autorise le président et le trésorier à faire tous les actes, achats, 
-aliénations et investissement des biens et des valeurs appartenant à 
-l’association et à passer les marchés et les contrats nécessaires à 
+Il autorise le président et le trésorier à faire tous les actes, achats,
+aliénations et investissement des biens et des valeurs appartenant à
+l’association et à passer les marchés et les contrats nécessaires à
 l’association.
 
-**Article 10.** Le conseil d’administration se réunit, éventuellement 
-électroniquement, à intervalles réguliers. Il a obligation de se réunir à la 
+**Article 10.** Le conseil d’administration se réunit, éventuellement
+électroniquement, à intervalles réguliers. Il a obligation de se réunir à la
 demande du président ou d’un quart de ses membres. La présence ou représentation
 de la moitié des membres est nécessaire pour pouvoir délibérer valablement.
 
-Les décisions sont prises par vote à main levée, à la majorité simple des 
-présents. Le vote est effectué à bulletin secret à la demande d’au moins un 
-membre. En cas d’égal partage des voix, celle du président ou de son 
+Les décisions sont prises par vote à main levée, à la majorité simple des
+présents. Le vote est effectué à bulletin secret à la demande d’au moins un
+membre. En cas d’égal partage des voix, celle du président ou de son
 représentant est prépondérante.
 
-Le vote par correspondance ou par procuration est autorisé. Nul ne peut être 
+Le vote par correspondance ou par procuration est autorisé. Nul ne peut être
 porteur de plus d’une procuration.
 
-Le conseil peut inviter à ses réunions toute personne qu’il juge nécessaire à 
+Le conseil peut inviter à ses réunions toute personne qu’il juge nécessaire à
 ses prises de décisions. Les invités ont une voix consultative.
 
-**Article 11.** Les membres du conseil d’administration peuvent démissionner en 
+**Article 11.** Les membres du conseil d’administration peuvent démissionner en
 adressant leur démission par écrit au secrétaire, ou, s’il s’agit du secrétaire,
 au président.
 
-Le conseil d’administration peut démettre l’un de ses membres par un vote à la 
+Le conseil d’administration peut démettre l’un de ses membres par un vote à la
 majorité des deux tiers de ses membres.
 
 Le conseil d’administration pourvoit aux vacances de ses membres. Les mandats
