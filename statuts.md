@@ -161,15 +161,7 @@ et soumise à la validation du trésorier, qui procédera au remboursement si la
 dépense est effectivement justi- fiée et que les finances de l’association le
 permettent.
 
-**Article 16.** Tous les membres de l’association sont tenus de ne rien révéler
-des dossiers ou des faits dont ils ont connaissance lors des réunions ou des
-conversations échangées dans le cadre de leur mandat ou des activités de
-l’association et qui n’ont pas encore été rendus publics.
-
-Le conseil d'administration pourra décharger les membres de cette obligation pour
-certains faits ou dossiers précis.
-
-**Article 17.** L’assemblée générale ordinaire comprend tous les membres de
+**Article 16.** L’assemblée générale ordinaire comprend tous les membres de
 l’association. Elle se réunit, éventuellement électroniquement, au moins une
 fois l’an, sur convocation du conseil d'administration ou à la demande d’un quart
 des membres.
@@ -185,7 +177,7 @@ Le vote est effectué à bulletin secret à la demande d’au moins un membre.
 Le vote par correspondance ou par procuration est autorisé. Nul ne peut être
 porteur de plus d’une procuration.
 
-**Article 18.** L’assemblée générale extraordinaire comprend tous les membres de
+**Article 17.** L’assemblée générale extraordinaire comprend tous les membres de
 l’association. Elle se réunit, éventuellement électroniquement, sur convocation
 du conseil d'administration ou à la demande de la moitié au moins des membres.
 
@@ -203,7 +195,7 @@ l’est.
 L’assemblée générale extraordinaire n’a pas le pouvoir d’en modifier l’ordre du
 jour.
 
-**Article 19.** Les décisions prises par le conseil d’administration et les
+**Article 18.** Les décisions prises par le conseil d’administration et les
 assemblées générales sont signées par le président, ou autre membre du conseil
 en cas d'absence de celui-ci, et mises à disposition des adhérents de
 l’association. Ces décisions sont à effet immédiat, sauf mention contraire.
@@ -212,13 +204,13 @@ La diffusion d’une décision peut être retardée ou annulée si ladite décis
 prévoit. Cette mesure ne doit être prise que de façon exceptionnelle, dans le
 but de préserver les intérêts de l’association.
 
-**Article 20.** En cas de dissolution prononcée par l’assemblée générale
+**Article 19.** En cas de dissolution prononcée par l’assemblée générale
 extraordinaire, un ou plusieurs liquidateurs sont nommés par elle. L’actif, s’il
 y a lieu, est dévolu à une association poursuivant des buts similaires,
 conformément à l’article 9 de la loi du 1er juillet 1901 et au décret du 16 août
 1901.
 
-**Article 21.** L’assemblée générale établit un règlement intérieur destiné à
+**Article 20.** L’assemblée générale établit un règlement intérieur destiné à
 fixer les divers points non prévus par les présents statuts, notamment ceux
 ayant trait à l’administration interne de l’association. L’assemblée générale
 et le conseil d’administration sont tous deux habilités à modifier le règlement
