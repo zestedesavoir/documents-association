@@ -54,7 +54,7 @@ L’intéressé sera invité à se présenter devant le conseil d’administrati
 fournir ses explications sous quinze jours.
 
 **Article 8.** L’association est administrée par un conseil d’administration,
-composé de 6 à 25 personnes. Le nombre est fixé par le conseil pour le prochain
+composé de 3 à 25 personnes. Le nombre est fixé par le conseil pour le prochain
 mandat.
 
 Le conseil d’administration est élu par l’assemblée générale pour un mandat d’un
@@ -67,9 +67,9 @@ Le vote est effectué à bulletin secret à la demande d’au moins un membre. L
 vote par correspondance ou par procuration est autorisé. Nul ne peut être
 porteur de plus d’une procuration.
 
-Si le minimum de 6 personnes n'est pas atteint, le vote est annulé et devra être
+Si le minimum de 3 personnes n'est pas atteint, le vote est annulé et devra être
 réorganisé lors d'une Assemblée Générale Extraordinaire. Si à la suite de ce
-deuxième vote le minimum de 6 personnes n'est pas atteint, l'ancien conseil
+deuxième vote le minimum de 3 personnes n'est pas atteint, l'ancien conseil
 d'administration devra procéder aux démarches de dissolution de l’association.
 
 Si plus de 25 personnes obtiennent la majorité simple, un second tour devra être
@@ -79,14 +79,17 @@ effectué dans les mêmes conditions que le premier vote.
 des pouvoirs les plus étendus dans la limite des buts de l’association et dans
 le cadre des résolutions adoptées lors des assemblées générales.
 
-Le conseil contrôle l’activité du bureau, se prononce sur toutes les admissions,
+Le conseil contrôle l’activité de l'association, se prononce sur toutes les admissions,
 décide les éventuelles mesures de radiation, nomme le personnel éventuel de
 l’association et détermine le montant de sa rénumération.
 
-Il autorise le président et le trésorier à faire tous les actes, achats,
-aliénations et investissement des biens et des valeurs appartenant à
-l’association et à passer les marchés et les contrats nécessaires à
-l’association.
+Les membres du conseil d'administration partagent la possibilité de faire tous les
+actes, achats, aliénations et investissements des biens et des valeurs appartenant
+à l’association et à passer les marchés et les contrats nécessaires à l’association.
+Ils autorisent les dépenses et remboursements de l'association.
+
+Lors de leur élection, les membres du conseil d'administration s'engagent à participer
+à la vie de l'association.
 
 **Article 10.** Le conseil d’administration se réunit, éventuellement
 électroniquement, à intervalles réguliers. Il a obligation de se réunir à la
@@ -105,8 +108,7 @@ Le conseil peut inviter à ses réunions toute personne qu’il juge nécessaire
 ses prises de décisions. Les invités ont une voix consultative.
 
 **Article 11.** Les membres du conseil d’administration peuvent démissionner en
-adressant leur démission par écrit au secrétaire, ou, s’il s’agit du secrétaire,
-au président.
+adressant leur démission par écrit aux autres membres du conseil.
 
 Le conseil d’administration peut démettre l’un de ses membres par un vote à la
 majorité des deux tiers de ses membres.
@@ -116,52 +118,35 @@ des remplaçants prendront fin au moment où ceux de leur prédécesseurs auraie
 dû expirer.
 
 **Article 12.** Au début de chaque mandat, le conseil d’administration élit en
-son sein un bureau composé de six membres : le président, le vice-président, le
-trésorier, le vice-trésorier, le secrétaire et le vice-secrétaire. La qualité de
-membre du bureau s’ajoute à celle de membre du conseil d’administration sans la
-remplacer.
+son sein un président, un trésorier et un secrétaire.
 
 **Article 13.** Le président a qualité pour représenter l’association dans tous
 les actes de la vie civile. Il préside les réunions du conseil d’administration
 et des assemblées générales, dont il décide l’ordre du jour. Il présente le
 bilan moral de l’association à l’assemblée générale une fois par an.
 
-Le vice-président seconde en toute chose le président et le remplace de plein
-droit en cas d'empêchement.
-
-Le président peut occasionnellement déléguer ses pouvoirs à un autre membre du
-conseil d’administration si le vice-président est indisponible.
-
-Le trésorier autorise les dépenses et remboursements et collecte les recettes de
-l’association. Il tient les comptes et présente le bilan financer à l’assemblée
-générale ordinaire une fois par an.
-
-Le vice-trésorier seconde en toute chose le trésorier et le remplace de plein
-droit en cas d'empêchement.
-
-Le trésorier peut occasionnellement déléguer ses pouvoirs à un autre membre du
-conseil d’administration si le vice-trésorier est indisponible.
+Le trésorier collecte les recettes de l'association. Il tient les comptes et présente
+le bilan financer à l’assemblée générale ordinaire une fois par an.
 
 Le secrétaire transcrit et rédige les comptes-rendus de toutes les réunions du
 conseil d’administration et des assemblées générales. Il se charge de rendre
 publiques les décisions prises lors de ses réunions. Il tient à jour la liste
-des adhérents, des membres du conseil d’administration et du bureau.
+des adhérents et des membres du conseil d’administration.
 
-Le vice-secrétaire seconde en toute chose le secrétaire et le remplace de plein
-droit en cas d'empêchement.
+Le président, le trésorier et le secrétaire peuvent occasionnellement déléguer
+leurs pouvoirs à d'autres membres du conseil d’administration.
 
-Le secrétaire peut occasionnellement déléguer ses pouvoirs à un autre membre du
-conseil d’administration si le vice-secrétaire est indisponible.
+Le président et le trésorier détiennent et partagent l'accès au compte bancaire
+de l'association.
 
-**Article 14.** Les membres du bureau peuvent être démis de leurs fonctions par
-un vote des deux tiers des membres du conseil d’administration. Ils peuvent
-également perdre leur qualité par démission adressée au président, ou, s’il
-s’agit du président, au secrétaire.
+**Article 14.** Le président, le trésorier et le secrétaire peuvent être démis
+de leurs fonctions par un vote des deux tiers des membres du conseil d’administration.
+Ils peuvent également perdre leur qualité par démission adressée au conseil.
 
-Les membres du bureau démissionnaires ou suspendus demeurent membres du conseil
+Ils demeurent malgré cette démission ou suspension membres du conseil
 d’administration, à moins que celui-ci n’en décide autrement.
 
-Le Conseil d’administration pourvoit aux vacances des postes du bureau en
+Le Conseil d’administration pourvoit aux vacances de ces trois postes en
 élisant les remplaçants en son sein. Si cela s’avère impossible, une assemblée
 générale est convoquée. Les mandats des remplaçants prennent fin au moment où
 ceux de leurs prédécesseurs auraient dû expirer.
@@ -181,12 +166,13 @@ des dossiers ou des faits dont ils ont connaissance lors des réunions ou des
 conversations échangées dans le cadre de leur mandat ou des activités de
 l’association et qui n’ont pas encore été rendus publics.
 
-Le président pourra décharger les membres de cette obligation pour certains
-faits ou dossiers précis.
+Le conseil d'administration pourra décharger les membres de cette obligation pour
+certains faits ou dossiers précis.
 
 **Article 17.** L’assemblée générale ordinaire comprend tous les membres de
 l’association. Elle se réunit, éventuellement électroniquement, au moins une
-fois l’an, sur convocation du président ou à la demande d’un quart des membres.
+fois l’an, sur convocation du conseil d'administration ou à la demande d’un quart
+des membres.
 
 Les membres reçoivent une convocation à l’assemblée générale au moins quinze
 jours avant la date fixée. Cette convocation mentionne le lieu de réunion et
@@ -201,7 +187,7 @@ porteur de plus d’une procuration.
 
 **Article 18.** L’assemblée générale extraordinaire comprend tous les membres de
 l’association. Elle se réunit, éventuellement électroniquement, sur convocation
-du président ou à la demande de la moitié au moins des membres.
+du conseil d'administration ou à la demande de la moitié au moins des membres.
 
 Les conditions de convocation sont identiques à celles d’une assemblée générale
 ordinaire.
@@ -218,7 +204,7 @@ L’assemblée générale extraordinaire n’a pas le pouvoir d’en modifier l�
 jour.
 
 **Article 19.** Les décisions prises par le conseil d’administration et les
-assemblées générales sont signées par le président, ou par le vice-président
+assemblées générales sont signées par le président, ou autre membre du conseil
 en cas d'absence de celui-ci, et mises à disposition des adhérents de
 l’association. Ces décisions sont à effet immédiat, sauf mention contraire.
 
