@@ -65,42 +65,39 @@ actions de l’association pour l’année écoulée, et présente les projets f
 les orientations que le CA compte donner à l’association. Un vote négatif du
 bilan moral vaut démission des membres élus du CA tout entier.
 
-### Obligations des membres du bureau
+### Obligations des membres du conseil d'administration
 
-Chacun des membres du bureau s'engage à partager avec les membres du conseil
-d'administration des moyens de contacts à jour incluant son numéro de téléphone,
+Chacun des membres du conseil d'administration s'engage à partager avec les autres
+membres du conseil des moyens de contacts à jour incluant son numéro de téléphone,
 son adresse électronique et tout autre moyen de communication permettant de le
 contacter rapidement en cas d'urgence.
 
-Toute indisponibilité prévue supérieure à une semaine d'un membre du bureau doit
-être signalé au conseil d'administration. Chacun des postes d'administration du
-bureau (Présidence, Trésorie et Secrétariat) doit en permanence être représenté
-par au moins un membre disposant des informations et pouvoirs décisionnels. Si
-les deux membres d'un même poste sont indisponibles simultanément, ou si une
-indisponibilité est supérieure à deux semaines, un membre du conseil
-d'administration doit être nommé pour assurer le rôle temporairement.
+Toute indisponibilité prévue supérieure à une semaine d'un membre du conseil
+d'administration doit être signalée au conseil. Chacun des postes d'administration
+du conseil (Présidence, Trésorerie et Secrétariat) doit en permanence être représenté
+par un membre disposant des informations et pouvoirs décisionnels. Le conseil pourvoiera
+à ces absences en nommant un de ses membres pour assurer le rôle temporairement.
 
-Tout membre du bureau qui ne peut être contacté après une durée de deux semaines
-non signalées est automatiquement considéré comme absent et indisponible. Les
-dispositions précédentes et les statuts s'appliquent alors pour son remplacement
+Tout membre du conseil d'administration qui ne peut être contacté après une durée
+de deux semaines non signalées est automatiquement considéré comme absent et indisponible.
+Les dispositions précédentes et les statuts s'appliquent alors pour son remplacement
 temporaire. A son retour, ou à défaut après une absence de contacts durant
-quatre semaines, le membre du bureau sera invité a fournir une explication de
+quatre semaines, le membre du conseil sera invité a fournir une explication de
 son indisponibilité. Le reste du conseil d'administration devra alors décider si
 le membre doit être démi de ses fonctions selon les termes de l'article 11 des
 statuts de l'association. Le membre indisponible dispose de deux semaines pour
 fournir ces explications.
 
-Un membre adjoint du bureau (Vice-président, Vice-trésorier et Vice-secrétaire)
-peut temporairement appliquer le pouvoir décisionnel de son responsable
-respectif si ce dernier ne peut être contacté et qu'une attente supérieure
-mettrait en péril une des activités de l'association selon l'avis d'au moins un
-quart des membres du conseil d'administration ou d'un des responsables
-techniques désignés par le conseil d'administration.
+Tout membre du conseil d'administration peut temporairement appliquer le pouvoir
+décisionnel du président, du trésorier ou du secrétaire, si celui-ci ne peut être
+contacté et qu'une attente supérieure mettrait en péril une des activités de l'association
+selon l'avis d'au moins un quart des membres du conseil d'administration ou d'un
+des responsables techniques désignés par le conseil d'administration.
 
-Un membre du bureau peut ponctuellement être remplacé, par son adjoint du
-bureau, à sa demande ou à celle du conseil d'administration si la décision à
-prendre peut présenter un conflit d'intérêt entre les objectifs de l'association
-et ses activités personnelles en dehors de l'association.
+Le président, le trésorier et le secrétaire peuvent ponctuellement être remplacés,
+par un autre membre du conseil d'administration, à leur demande ou à celle du conseil
+d'administration si la décision à prendre peut présenter un conflit d'intérêt entre
+les objectifs de l'association et ses activités personnelles en dehors de l'association.
 
 ## Organisation Interne
 
@@ -163,17 +160,16 @@ d'Administration.
 
 ### Documents et services relatif à l'association
 
-Les membres du bureau doivent partager entre eux électroniquement tous les
-documents et informations d'accès aux services liés à l'association permettant
-ainsi la possibilité de reprise de leur fonction par un autre membre du bureau
-ou du conseil d'administration en cas d'indisponibilité ou à la fin de leur
-mandat.
+Les membres du conseil d'administration doivent partager entre eux électroniquement
+tous les documents et informations d'accès aux services liés à l'association permettant
+ainsi la possibilité de reprise de leur fonction par un autre membre du conseil
+d'administration en cas d'indisponibilité ou à la fin de leur mandat.
 
-Les membres du bureau sont incités à partager publiquement tout document relatif
-à l'association dont la mise à disposition publique ne pose pas de risque pour
-la gestion de l'association. Tout membre de l'association peut faire la demande
-de mise à disposition du public des documents relatifs à l'association. Le conseil d'administration
-décide alors de cette mise à disposition après avis des membres du bureau.
+Les membres du conseil d'administration sont incités à partager publiquement tout
+document relatif à l'association dont la mise à disposition publique ne pose pas
+de risque pour la gestion de l'association. Tout membre de l'association peut faire
+la demande de mise à disposition du public des documents relatifs à l'association.
+Le conseil d'administration décide alors de cette mise à disposition.
 
 Tous les documents produits par l'association doivent être placés sous une
 licence [CC BY 4.0](http://creativecommons.org/licenses/by/4.0/) tant que cela
