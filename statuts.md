@@ -34,13 +34,14 @@ publiques ;
 - les recettes provenant de la vente de produits fournis par l’association ;
 - toutes les ressources autorisées par les lois en vigueur.
 
-**Article 6.** L’adhésion à l’association se fait en adressant une demande
-écrite auprès du secrétaire. Le conseil d’administration statue sur les demandes
-d’adhésion et informe ensuite les candidats de sa décision. Les demandes
-d’adhésion pourront être refusées sans fournir de motif.
+**Article 6.** L'adhésion à l'association se fait en remplissant le formulaire
+d'inscription prévu à cet effet. Toute personne inscrite et à jour dans ses
+cotisations est membre de l'association.
 
-Toute personne dont la demande d’adhésion a été acceptée et à jour dans ses
-cotisations est membre de l’association.
+Le titre de membre d'honneur peut être décerné par le conseil d'administration
+aux personnes qui rendent ou ont rendu des services signalés à l'association. Ce
+titre leur confère le droit de faire partie de l'assemblée générale sans être
+tenus de payer une cotisation.
 
 **Article 7.** La qualité de membre se perd par décès, démission adressée par
 écrit au président ou radiation prononcée par le conseil d’administration.
