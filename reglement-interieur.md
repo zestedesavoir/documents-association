@@ -84,7 +84,7 @@ Les dispositions précédentes et les statuts s'appliquent alors pour son rempla
 temporaire. A son retour, ou à défaut après une absence de contacts durant
 quatre semaines, le membre du conseil sera invité a fournir une explication de
 son indisponibilité. Le reste du conseil d'administration devra alors décider si
-le membre doit être démi de ses fonctions selon les termes de l'article 11 des
+le membre doit être démis de ses fonctions selon les termes de l'article 11 des
 statuts de l'association. Le membre indisponible dispose de deux semaines pour
 fournir ces explications.
 
@@ -127,7 +127,7 @@ définis :
 - Staff : les membres du staff sont les responsables du contenu du/des site(s)
 de l'association. Ils auront la responsabilité de modérer le contenu, valider le
 contenu soumis et gérer la communauté. Ils seront sous la responsabilité du
-Conseil d'Administration. La première élection sera effectué par le Conseil
+Conseil d'Administration. La première élection sera effectuée par le Conseil
 d'Administration, par la suite, ils pourront élire en leur sein d'autres
 membres.
 
