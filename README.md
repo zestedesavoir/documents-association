@@ -4,13 +4,64 @@ Ce dépôt répertorie tous les documents publics de l'association Zeste de Savo
 
 ## Documents généraux
 
-Nature du document                         | Source                         | Fichier PDF
--------------------------------------------|------------------------------- | -----------
-Les statuts                                | [lien](statuts.md)             | [lien](https://drive.google.com/open?id=0BzabS14KitJgY3p1MTZ1OTJOcms)
-Le règlement intérieur                     | [lien](reglement-interieur.md) | [lien](https://drive.google.com/open?id=0BzabS14KitJgZm1xMnowbkZHOWc)
-Annonce de publication au journal officiel | -                              | [lien](https://drive.google.com/open?id=0BzabS14KitJgQ0tzX1F1eUdYeGs)
+ Nature du document                         | Source                                       | Fichier PDF                                                  
+ ------------------------------------------ | -------------------------------------------- | ------------------------------------------------------------ 
+ Les statuts                                | [Source](statuts.md) (référence)             | [PDF](https://drive.google.com/open?id=0BzabS14KitJgY3p1MTZ1OTJOcms) 
+ Le règlement intérieur                     | [Source](reglement-interieur.md) (référence) | [PDF](https://drive.google.com/open?id=0BzabS14KitJgZm1xMnowbkZHOWc) 
+ Annonce de publication au journal officiel | -                                            | [PDF](https://drive.google.com/open?id=0BzabS14KitJgQ0tzX1F1eUdYeGs) 
 
 ## Documents relatifs aux assemblées générales et réunions du CA
+
+### 2021
+
+Assemblée Générale Ordinaire du 09 mai 2021
+
+Nature du document                         | Source                            | Fichier PDF
+-------------------------------------------|---------------------------------- | -----------
+Convocation                                | -                                 | -
+Procès-verbal                              | -                                 | [PDF](2021/2021-05-09_PV_AGO.pdf) 
+
+Réunion du Conseil d'Administration du 09 mai 2021 (post AG)
+
+Nature du document                         | Source                            | Fichier PDF
+-------------------------------------------|---------------------------------- | -------------
+Procès-verbal                              | -                                 | -
+
+### 2020
+
+Assemblée Générale Ordinaire du 25 avril 2020
+
+Nature du document                         | Source                            | Fichier PDF
+-------------------------------------------|---------------------------------- | -----------
+Convocation                                | -                                 | -
+Procès-verbal                              | -                                 | [PDF](2020/2020-04-25_PV_AGO.pdf) 
+
+Réunion du Conseil d'Administration du 25 avril 2020 (post AG)
+
+Nature du document                         | Source                            | Fichier PDF
+-------------------------------------------|---------------------------------- | -------------
+Procès-verbal                              | -                                 | -
+
+Réunion du Conseil d'Administration du 23 novembre 2020
+
+Nature du document                         | Source                            | Fichier PDF
+-------------------------------------------|---------------------------------- | -------------
+Ordre du jour et procès-verbal                              | [Source](2020/2020-11-23_PV_RCA.md) | -
+
+### 2019
+
+Assemblée Générale Ordinaire du 22 juin 2019
+
+Nature du document                         | Source                            | Fichier PDF
+-------------------------------------------|---------------------------------- | -----------
+Convocation                                | -                                 | -
+Procès-verbal                              | -                                 | [PDF](https://drive.google.com/file/d/1tAtADwaNENp-RvKss99AafG5FgbCyYTE/view?usp=sharing) 
+
+Réunion du Conseil d'Administration du 14 avril 2018 (post AG)
+
+Nature du document                         | Source                            | Fichier PDF
+-------------------------------------------|---------------------------------- | -------------
+Procès-verbal                              | -                                 | -
 
 ### 2018
 
@@ -19,15 +70,15 @@ Assemblée Générale Ordinaire du 14 avril 2018
 Nature du document                         | Source                            | Fichier PDF
 -------------------------------------------|---------------------------------- | -----------
 Convocation                                | -                                 | -
-Procès-verbal                              | -                                 | [lien](https://drive.google.com/open?id=1kmFhQzqUVgqI1GbcsVwKg2GNgvWmceTw)
+Procès-verbal                              | -                                 | [PDF](2018-04-14_PV_AGO.pdf) (pages 1 à 3) 
 
 Réunion du Conseil d'Administration du 14 avril 2018 (post AG)
 
 Nature du document                         | Source                            | Fichier PDF
 -------------------------------------------|---------------------------------- | -------------
-Procès-verbal                              | -                                 | -
+Procès-verbal                              | -                                 | [PDF](2018-04-14_PV_AGO.pdf) (page 4 et 5) 
 
-Réunion du Conseil d'Administration du 17 septembre 2018 (post AG)
+Réunion du Conseil d'Administration du 17 septembre 2018
 
 Nature du document                         | Source                            | Fichier PDF
 -------------------------------------------|---------------------------------- | -------------
@@ -40,64 +91,64 @@ Assemblée Générale Ordinaire du 8 avril 2017
 Nature du document                         | Source                            | Fichier PDF
 -------------------------------------------|---------------------------------- | -----------
 Convocation                                | -                                 | -
-Procès-verbal                              | [lien](2017/2017-04-08_PV_AGO.md) | [lien](https://drive.google.com/open?id=0B1uBR2hmcLbMaENDQm1ucjVvTk0)
+Procès-verbal                              | [Source](2017/2017-04-08_PV_AGO.md) | [PDF](https://drive.google.com/file/d/16Jf2qbQKg8r8pSuSs0VgvTODHW8VKIgY/view?usp=sharing) 
 
 Réunion du Conseil d'Administration du 8 avril 2017 (post AG)
 
 Nature du document                         | Source                            | Fichier PDF
 -------------------------------------------|---------------------------------- | -------------
-Procès-verbal                              | [lien](2017/2017-04-08_PV_RCA.md) |[lien](https://drive.google.com/open?id=0B1uBR2hmcLbMRDhGNm5iUFpKejg)
+Procès-verbal                              | [Source](2017/2017-04-08_PV_RCA.md) |[PDF](https://drive.google.com/open?id=0B1uBR2hmcLbMRDhGNm5iUFpKejg)
 
 ### 2016
 
 Assemblée Générale Ordinaire du 16 avril 2016
 
-Nature du document                         | Source                                | Fichier PDF
--------------------------------------------|-------------------------------------- | -----------
-Convocation                                | [lien](2016/2016-04-16_convoc_AGO.md) | [lien](https://drive.google.com/open?id=0BzabS14KitJgVXlEdHRFSEwxdHM)
-Procès-verbal                              | [lien](2016/2016-04-16_PV_AGO.md)     | [lien](https://drive.google.com/open?id=0BzabS14KitJgcXVqb0Y4R0VyUWM)
+ Nature du document | Source                                  | Fichier PDF                                                  
+ ------------------ | --------------------------------------- | ------------------------------------------------------------ 
+ Convocation        | [Source](2016/2016-04-16_convoc_AGO.md) | [PDF](https://drive.google.com/open?id=0BzabS14KitJgVXlEdHRFSEwxdHM) 
+ Procès-verbal      | [Source](2016/2016-04-16_PV_AGO.md)     | [PDF](https://drive.google.com/open?id=0BzabS14KitJgcXVqb0Y4R0VyUWM) 
 
 Réunion du Conseil d'Administration du 16 avril 2016 (post AG)
 
-Nature du document                         | Source                            | Fichier PDF
--------------------------------------------|---------------------------------- | -----------
-Procès-verbal                              | [lien](2016/2016-04-16_PV_RCA.md) | [lien](https://drive.google.com/open?id=0BzabS14KitJgOXZ5c0UwR095Y0E)
+ Nature du document | Source                              | Fichier PDF                                                  
+ ------------------ | ----------------------------------- | ------------------------------------------------------------ 
+ Procès-verbal      | [Source](2016/2016-04-16_PV_RCA.md) | [PDF](https://drive.google.com/open?id=0BzabS14KitJgOXZ5c0UwR095Y0E) 
 
 ### 2015
 
 Assemblée Générale Ordinaire du 11 avril 2015
 
-Nature du document                         | Source                                | Fichier PDF
--------------------------------------------|-------------------------------------- | -----------
-Convocation                                | [lien](2015/2015-04-11_convoc_AGO.md) | [lien](https://drive.google.com/open?id=0BzabS14KitJgbG9DYVUyeS1QaGM)
-Procès-verbal                              | [lien](2015/2015-04-11_PV_AGO.md)     | [lien](https://drive.google.com/open?id=0BzabS14KitJgQVZyamZjUEtlTms)
+ Nature du document | Source                                  | Fichier PDF                                                  
+ ------------------ | --------------------------------------- | ------------------------------------------------------------ 
+ Convocation        | [Source](2015/2015-04-11_convoc_AGO.md) | [PDF](https://drive.google.com/open?id=0BzabS14KitJgbG9DYVUyeS1QaGM) 
+ Procès-verbal      | [Source](2015/2015-04-11_PV_AGO.md)     | [PDF](https://drive.google.com/open?id=0BzabS14KitJgQVZyamZjUEtlTms) 
 
 Réunion du Conseil d'Administration du 11 avril 2015 (post AG)
 
-Nature du document                         | Source                            | Fichier PDF
--------------------------------------------|---------------------------------- | -----------
-Procès-verbal                              | [lien](2015/2015-04-11_PV_RCA.md) | [lien](https://drive.google.com/open?id=0BzabS14KitJgbS1Lc2tDVEhMZ2M)
+ Nature du document | Source                              | Fichier PDF                                                  
+ ------------------ | ----------------------------------- | ------------------------------------------------------------ 
+ Procès-verbal      | [Source](2015/2015-04-11_PV_RCA.md) | [PDF](https://drive.google.com/open?id=0BzabS14KitJgbS1Lc2tDVEhMZ2M) 
 
 ### 2014
 
 Assemblée Générale Constitutive du 15 mars 2014 (création de l'association)
 
-Nature du document                         | Source                                | Fichier PDF
--------------------------------------------|-------------------------------------- | -----------
-Convocation                                | [lien](2014/2014-03-15_convoc_AGC.md) | [lien](https://drive.google.com/open?id=0BzabS14KitJgQkJzRzRYbnRfeWc)
-Procès-verbal                              | [lien](2014/2014-03-15_PV_AGC.md)     | [lien](https://drive.google.com/open?id=0BzabS14KitJgYXl5eW1ZRFQ5NUU)
+ Nature du document | Source                                  | Fichier PDF                                                  
+ ------------------ | --------------------------------------- | ------------------------------------------------------------ 
+ Convocation        | [Source](2014/2014-03-15_convoc_AGC.md) | [PDF](https://drive.google.com/open?id=0BzabS14KitJgQkJzRzRYbnRfeWc) 
+ Procès-verbal      | [Source](2014/2014-03-15_PV_AGC.md)     | [PDF](https://drive.google.com/open?id=0BzabS14KitJgYXl5eW1ZRFQ5NUU) 
 
 Réunion du Conseil d'Administration du 15 mars 2014 (post AG constitutive)
 
-Nature du document                         | Source                            | Fichier PDF
--------------------------------------------|---------------------------------- | -----------
-Procès-verbal                              | [lien](2014/2014-03-15_PV_RCA.md) | [lien](https://drive.google.com/open?id=0BzabS14KitJgUmFtSmQ5UHFFbms)
+ Nature du document | Source                              | Fichier PDF                                                  
+ ------------------ | ----------------------------------- | ------------------------------------------------------------ 
+ Procès-verbal      | [Source](2014/2014-03-15_PV_RCA.md) | [PDF](https://drive.google.com/open?id=0BzabS14KitJgUmFtSmQ5UHFFbms) 
 
 Réunion du Conseil d'Administration du 5 mai 2014
 
-Nature du document                         | Source                            | Fichier PDF
--------------------------------------------|---------------------------------- | -----------
-Procès-verbal                              | [lien](2014/2014-05-05_PV_RCA.md) | [lien](https://drive.google.com/open?id=0BzabS14KitJgT1RybzJJcnphMWc)
+ Nature du document | Source                              | Fichier PDF                                                  
+ ------------------ | ----------------------------------- | ------------------------------------------------------------ 
+ Procès-verbal      | [Source](2014/2014-05-05_PV_RCA.md) | [PDF](https://drive.google.com/open?id=0BzabS14KitJgT1RybzJJcnphMWc) 
 
 ## Documents privés
 
