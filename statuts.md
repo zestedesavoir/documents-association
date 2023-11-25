@@ -7,10 +7,8 @@ connaissances et d’aider à l’auto-formation dans divers domaines, notamment
 informatiques et scientifiques. Elle édite diverses ressources pédagogiques,
 de préférence sous licence libre, qu’elle met à disposition gratuitement.
 
-**Article 3.** Le siège social est fixé au domicile du président de
-l’association ou dans un autre local mis à disposition par la collectivité
-publique de la commune de résidence du président (ex : maison des associations).
-Il pourra être transféré par simple décision du conseil d’administration.
+**Article 3.** Le siège social est fixé à Levallois-Perret (Hauts-de-Seine),
+son adresse précise est communiquée à la préfecture du département.
 
 La durée de l’association est illimitée.
 
