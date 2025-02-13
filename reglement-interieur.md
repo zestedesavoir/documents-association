@@ -33,8 +33,7 @@ Afin de fournir au CA un guide d’action, la charte de fonctionnement suivante
 est à suivre:
 
 - Pas de prestation de service ou action en concurrence avec une entreprise.
-- Non électoral : l’association ne doit pas apparaître comme le soutien d’un
-parti ou d’un candidat.
+- Non partisan : l’association ne doit pas apparaître comme le soutien d’un parti ou d’un·e candidat·e ; elle peut cependant prendre position publiquement pour défendre ou soutenir son objet social, y compris en opposition à un parti ou un·e candidat·e à une élection.
 - Les actions de l’association sont réservées aux membres, les organisations
 autres étant soumises au statut de membre associé.
 - Toute action doit être soumise au vote du CA qui répond dans un délai court et
