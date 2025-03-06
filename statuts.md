@@ -3,7 +3,7 @@ association régie par la Loi du 1er juillet 1901 et le décret du 16 août 1901
 ayant pour titre : « **Zeste de Savoir** ».
 
 **Article 2.** Cette association a pour but de promouvoir le partage de
-connaissances et d’aider à l’auto-formation dans divers domaines, notamment
+connaissances à toute personne sans distinction et d’aider à l’auto-formation dans divers domaines, notamment
 informatiques et scientifiques. Elle édite diverses ressources pédagogiques,
 de préférence sous licence libre, qu’elle met à disposition gratuitement.
 
