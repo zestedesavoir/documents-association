@@ -15,11 +15,11 @@ Présents :
 ### Compte-rendu
 
 
-❌ Pas commencé
-⏳ En cours, avancé depuis la dernière réunion
-🐢 En cours, pas avancé depuis la dernière réunion
-✅ Terminé
-🪦 Enterré
+- ❌ Pas commencé
+- ⏳ En cours, avancé depuis la dernière réunion
+- 🐢 En cours, pas avancé depuis la dernière réunion
+- ✅ Terminé
+- 🪦 Enterré
 
 
 

@@ -35,7 +35,7 @@
        * 10 ans de ZDS (15 min - Rockaround)
            * Billet court publié
            * Clem anniversaire mise en prod pendant environ une semaine
-               * Il faut cloturer le concours
+               * Il faut cloture le concours
            * Article plus long en cours, publication visée pour "la rentrée en septembre"
                * Interview d'Arius (validation + modération) OK, Amaury (comm + asso) et philippemilink (site) en attente de réponse
        * Révision de nos statuts/RI par rapport aux aspects électoraux
@@ -45,7 +45,7 @@
    * Points à durée incertaine
        * État des lieux pour les équipes de modérateurs et validateurs (5 min ? - Situphen)
            * État des lieux lancé le 20 mai ([https://zestedesavoir.com/forums/sujet/1630/etat-du-staff-validation-et-recrutement/?page=29#p255178)](https://zestedesavoir.com/forums/sujet/1630/etat-du-staff-validation-et-recrutement/?page=29#p255178)) et tout le monde a répondu (sauf une personne)
-           * Besoin de recruter des modérateurs ("vrais" modérateurs, c'est-à-dire pas seulement des personnes qui s'occupent du spam évident -- en langue étrangère ou avec insertion de lien)
+           * Besoin de recruter des modérateurs ("vrais" modérateurs, c'est-à-dire pas seulement des personnes qui s'occupent du spam évident — en langue étrangère ou avec insertion de lien)
            * Besoin d'une personne "responsable d'équipe" pour s'assurer du bon suivi des contenus en lien avec les validateurs ?
            * CA : pousser à l'auto-organisation de l'équipe
            * → Une réunion CA/validateurs pour discuter du fonctionnement de l'équipe des validateurs (responsable d'équipe ? réunions régulières ?)
@@ -66,13 +66,13 @@
        * Groupe de travail sur les contenus (Gabbro)
            * [https://zestedesavoir.com/forums/sujet/17402/les-publications-sur-zds/?page=1#p254616](https://zestedesavoir.com/forums/sujet/17402/les-publications-sur-zds/?page=1#p254616)
            * Pas commencé, Gabbro a demandé du temps.
-           * => Manque de temps et pas une bonne idée de lancer ça pendant l'été donc en septembre
+           * → Manque de temps et pas une bonne idée de lancer ça pendant l'été donc en septembre
        * Groupe de travail sur le budget (subventions de fonctionnement)
            * Pas de nouvelles
            * Qui gère ce sujet officiellement ?
            * Remarque de Situphen : est-ce vraiment nécessaire étant donné qu'on manque de volontaires pour mettre en place les idées de projet ?
        * Groupe de travail auteurs externes
-           * Cf qwerty, pas là → pas de nouvelle.
+           * Cf. qwerty, pas là → pas de nouvelle.
            * Envoi d'un MP avec germinolegrand, Rockaround et Qwerty pour lancer le groupe de travail
        * Proposition de Rockaround : groupe d'action sur la recherche de nouveaux membres
            * Permettre aux membres existants de promouvoir ZDS autour d'eux pour se faire connaitre auprès de personnes éventuellement intéressées par nos contenus et nos forums

@@ -13,9 +13,9 @@ Présents :
 
 ### Compte-rendu
 
-❌ Pas avancé
-⏳ Avancé, non terminé
-✅ Terminé
+- ❌ Pas avancé
+- ⏳ Avancé, non terminé
+- ✅ Terminé
 
 
    * Points rapides
@@ -54,7 +54,7 @@ Présents :
    * Points à durée incertaine
        * État des lieux pour les équipes de modérateurs et validateurs (5 min ? - Situphen)
            * État des lieux lancé le 20 mai ([https://zestedesavoir.com/forums/sujet/1630/etat-du-staff-validation-et-recrutement/?page=29#p255178)](https://zestedesavoir.com/forums/sujet/1630/etat-du-staff-validation-et-recrutement/?page=29#p255178)) et tout le monde a répondu (sauf une personne)
-           * Besoin de recruter des modérateurs ("vrais" modérateurs, c'est-à-dire pas seulement des personnes qui s'occupent du spam évident -- en langue étrangère ou avec insertion de lien)
+           * Besoin de recruter des modérateurs ("vrais" modérateurs, c'est-à-dire pas seulement des personnes qui s'occupent du spam évident — en langue étrangère ou avec insertion de lien)
            * Besoin d'une personne "responsable d'équipe" pour s'assurer du bon suivi des contenus en lien avec les validateurs ?
            * CA : pousser à l'auto-organisation de l'équipe
            * → Une réunion CA/validateurs pour discuter du fonctionnement de l'équipe des validateurs (responsable d'équipe ? réunions régulières ?)
@@ -62,7 +62,7 @@ Présents :
            * → Une réunion CA/modérateurs pour discuter du fonctionnement de l'équipe des modérateurs (responsable d'équipe ? recrutement de nouveaux modérateurs ? code de conduite du modérateur ?)
                * message forum staff (spécifier pour les modos) + sondage date réunion
            * Lancement de la réunion CA/validateurs après la réunion du CA du 16 septembre
-           * ⏳ Préparation possible du sujet du forum en amont sur le forum CA, **on vise début octobre pour les validateurs** et un peu plus tard pour les modérateurs => Situphen prend le sujet en main
+           * ⏳ Préparation possible du sujet du forum en amont sur le forum CA, **on vise début octobre pour les validateurs** et un peu plus tard pour les modérateurs → Situphen prend le sujet en main
        * ❌ Financement d’une direction artistique pour le site
            * Pas de nouveau (ni devis, ni rien) mais pas d'urgence donc ce n'est pas un souci
        * ⏳ Concours Eyrolles pour la sortie du 3ᵉ livre
@@ -76,13 +76,13 @@ Présents :
        * ❌ Groupe de travail sur les contenus (Gabbro)
            * [https://zestedesavoir.com/forums/sujet/17402/les-publications-sur-zds/?page=1#p254616](https://zestedesavoir.com/forums/sujet/17402/les-publications-sur-zds/?page=1#p254616)
            * Pas commencé, Gabbro a demandé du temps.
-           * => Manque de temps et pas une bonne idée de lancer ça pendant l'été donc en octobre ou après.
+           * → Manque de temps et pas une bonne idée de lancer ça pendant l'été donc en octobre ou après.
            * Gabbro gère, il faut juste du temps (rentrée associative).
        * ❌ Groupe de travail sur le budget (subventions de fonctionnement)
            * Pas de nouvelles
            * Qui gère ce sujet officiellement ? Personne
            * Remarque de Situphen : est-ce vraiment nécessaire étant donné qu'on manque de volontaires pour mettre en place les idées de projet ?
-               * Priorité faible car les projets ayant besoin d'argent ont été pour la plupart annulés ou mis en pause prolongée.
+               * Priorité faible, car les projets ayant besoin d'argent ont été pour la plupart annulés ou mis en pause prolongée.
            * ✅⏳ Groupe de travail auteurs externes
            * Envoi d'un MP avec germinolegrand, Rockaround et qwerty pour lancer le groupe de travail : fait, mais il faut continuer la dynamique lancée
        * ⏳ Proposition de Rockaround : groupe d'action sur la recherche de nouveaux membres
@@ -97,7 +97,7 @@ Présents :
            * Quinzaine de livre Cyber, dizaine de C++, peu de Réseau de zéro.
            * Idée : donner les livres à des bibliothèques pour augmenter la probabilité qu'ils soient utilisés et ne restent pas sur des étagères, et en même temps récompenser les auteurs en leur permettant de choisir la bibliothèque à laquelle donner le livre (ou bien le garder pour soi-même)
                * *› J’aime vraiment beaucoup cette idée — Amaury (note ultérieure, absent lors de la réunion)*
-               * Pas d'opposition, on peut creuser l'idée (commencer à lister les auteurs, préparer des messages) lors du JZDS Vannes début octobre avec Situphen, Rockaround et Aabu
+               * Pas d'opposition, on peut creuser l'idée (commencer à lister les auteurs, préparer des messages) lors du JZDS Vannes début octobre avec Situphen, Rockaround et Aabu.
 
 
 **Fin de réunion à 21h57**
