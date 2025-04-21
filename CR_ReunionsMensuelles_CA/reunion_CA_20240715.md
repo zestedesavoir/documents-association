@@ -76,7 +76,7 @@
 
 
 
-[]Début à 22h03[]
+**[Début à 22h03]**
 
 
 
@@ -152,4 +152,4 @@ Prochaine réunion le 19 aout.
 
 
 
-[]Fin de la réunion à 23h14[]
+**Fin de la réunion à 23h14**
